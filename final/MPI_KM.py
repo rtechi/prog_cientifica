@@ -1,7 +1,3 @@
-
-centroides=[[0,0],[0,0],[0,0]]
-
-
 from mpi4py import MPI
 import numpy as np
 from kmteste import solve
