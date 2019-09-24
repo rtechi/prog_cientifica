@@ -1,6 +1,6 @@
 from mpi4py import MPI
 import numpy as np
-from kmteste import solve
+from KMEANS import solve
 import time
 import matplotlib.pyplot as plt
 from database import data_pick
